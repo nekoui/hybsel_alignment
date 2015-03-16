@@ -1,0 +1,281 @@
+2648220 140 11
+0 gb:KC242801|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/1976/deRoover|Segment:null|Host:Human
+0 18959 0
+0 gb:KC242791|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/1977/Bonduni|Segment:null|Host:Human
+18959 18959 0
+0 gb:KC242796|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/1995/13625 Kikwit|Segment:null|Host:Human
+37918 18959 0
+0 gb:KC242799|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/1995/13709 Kikwit|Segment:null|Host:Human
+56877 18959 0
+0 gb:KC242785|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/0 Luebo|Segment:null|Host:Human
+75836 18958 0
+0 gb:KC242786|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/1 Luebo|Segment:null|Host:Human
+94794 18958 0
+0 gb:KC242787|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/23 Luebo|Segment:null|Host:Human
+113752 18958 0
+0 gb:KC242789|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/4 Luebo|Segment:null|Host:Human
+132710 18958 0
+0 gb:KC242788|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/43 Luebo|Segment:null|Host:Human
+151668 18958 0
+0 gb:KC242790|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/5 Luebo|Segment:null|Host:Human
+170626 18958 0
+0 gb:KC242784|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/COD/2007/9 Luebo|Segment:null|Host:Human
+189584 18958 0
+0 gb:KC242792|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1994/Gabon|Segment:null|Host:Human
+208542 18959 0
+0 gb:KC242793|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1996/1Eko|Segment:null|Host:Human
+227501 18958 0
+0 gb:KC242798|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1996/1Ikot|Segment:null|Host:Human
+246459 18959 0
+0 gb:KC242795|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1996/1Mbie|Segment:null|Host:Human
+265418 18958 0
+0 gb:KC242797|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1996/1Oba|Segment:null|Host:Human
+284376 18958 0
+0 gb:KC242794|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1996/2Nza|Segment:null|Host:Human
+303334 18959 0
+0 gb:KC242800|Organism:Zaire ebolavirus EBOV/H.sapiens-tc/GAB/1996/Ilembe|Segment:null|Host:Human
+322293 18958 0
+0 gb:KJ660348|Organism:Zaire ebolavirus H.sapiens-wt/GIN/2014/Gueckedou-C05|Segment:null|Host:Human
+341251 18959 0
+0 gb:KJ660347|Organism:Zaire ebolavirus H.sapiens-wt/GIN/2014/Gueckedou-C07|Segment:null|Host:Human
+360210 18959 0
+0 gb:KJ660346|Organism:Zaire ebolavirus H.sapiens-wt/GIN/2014/Kissidougou-C15|Segment:null|Host:Human
+379169 18959 0
+0 gb:JQ352763|Organism:Zaire ebolavirus Kikwit|Segment:null|Host:Unknown
+398128 18944 2
+0 gb:AF272001|Organism:Zaire ebolavirus Mayinga|Segment:null|Host:Guinea Pig
+417072 18959 0
+0 gb:AF499101|Organism:Zaire ebolavirus Mayinga|Segment:null|Host:Guinea Pig
+436031 18960 0
+0 gb:AY142960|Organism:Zaire ebolavirus Mayinga|Segment:null|Host:Guinea Pig
+454991 18959 0
+0 gb:EU224440|Organism:Zaire ebolavirus Mayinga|Segment:null|Host:Guinea Pig
+473950 18959 0
+0 gb:KF827427|Organism:Zaire ebolavirus rec/COD/1976/Mayinga-rgEBOV|Segment:null|Host:Human
+492909 18959 0
+0 gb:HC069217|Organism:Zaire ebolavirus UNKNOWN-HC069217|Segment:null
+511868 18959 0
+0 gb:HC069221|Organism:Zaire ebolavirus UNKNOWN-HC069221|Segment:null
+530827 18960 0
+0 gb:HC069235|Organism:Zaire ebolavirus UNKNOWN-HC069235|Segment:null
+549787 18959 0
+0 gb:HC069239|Organism:Zaire ebolavirus UNKNOWN-HC069239|Segment:null
+568746 18959 0
+0 gb:HC069241|Organism:Zaire ebolavirus UNKNOWN-HC069241|Segment:null
+587705 18959 0
+0 gb:HC874661|Organism:Zaire ebolavirus UNKNOWN-HC874661|Segment:null
+606664 18959 0
+0 gb:HC874665|Organism:Zaire ebolavirus UNKNOWN-HC874665|Segment:null
+625623 18960 0
+0 gb:HC874677|Organism:Zaire ebolavirus UNKNOWN-HC874677|Segment:null
+644583 18959 0
+0 gb:HC874681|Organism:Zaire ebolavirus UNKNOWN-HC874681|Segment:null
+663542 18959 0
+0 gb:HC874683|Organism:Zaire ebolavirus UNKNOWN-HC874683|Segment:null
+682501 18959 0
+0 gb:JA489037|Organism:Zaire ebolavirus UNKNOWN-JA489037|Segment:null|Host:Unknown
+701460 18959 0
+0 gb:AY354458|Organism:Zaire ebolavirus Zaire 1995|Segment:null|Host:Unknown
+720419 18961 0
+0 gb:AF086833|Organism:Zaire ebolavirus Mayinga|Segment:null|Host:Guinea Pig
+739380 18959 0
+0 gb:NC_002549|Organism:Zaire ebolavirus Mayinga|Segment:null|Host:Guinea Pig
+758339 18959 0
+0 gi|661348735|gb|KM034563.1| Zaire ebolavirus strain G3687.1, partial genome
+777298 18700 4
+0 gi|661348725|gb|KM034562.1| Zaire ebolavirus strain G3686.1, partial genome
+795998 18957 0
+0 gi|661348715|gb|KM034561.1| Zaire ebolavirus strain G3683.1, partial genome
+814955 18908 0
+0 gi|661348705|gb|KM034560.1| Zaire ebolavirus strain G3682.1, partial genome
+833863 18952 0
+0 gi|661348695|gb|KM034559.1| Zaire ebolavirus strain G3680.1, partial genome
+852815 18926 0
+0 gi|661348685|gb|KM034558.1| Zaire ebolavirus strain G3679.1, partial genome
+871741 18915 0
+0 gi|661348675|gb|KM034557.1| Zaire ebolavirus strain G3677.2, partial genome
+890656 18956 0
+0 gi|661348665|gb|KM034556.1| Zaire ebolavirus strain G3677.1, partial genome
+909612 18932 0
+0 gi|661348655|gb|KM034555.1| Zaire ebolavirus strain G3676.2, partial genome
+928544 18950 0
+0 gi|661348645|gb|KM034554.1| Zaire ebolavirus strain G3676.1, partial genome
+947494 18948 0
+0 gi|661348635|gb|KM034553.1| Zaire ebolavirus strain G3670.1, partial genome
+966442 18927 0
+0 gi|661348625|gb|KM034552.1| Zaire ebolavirus strain EM098, partial genome
+985369 18769 0
+0 gi|661348615|gb|KM034551.1| Zaire ebolavirus strain EM096, partial genome
+1004138 18926 0
+0 gi|661348605|gb|KM034550.1| Zaire ebolavirus strain EM095, partial genome
+1023064 18911 1
+0 gi|661348595|gb|KM034549.1| Zaire ebolavirus strain EM095B, partial genome
+1041975 18835 1
+0 gi|667853353|gb|KM233118.1| Zaire ebolavirus strain NM042.3, partial genome
+1060810 18613 0
+0 gi|667853343|gb|KM233117.1| Zaire ebolavirus strain NM042.2, partial genome
+1079423 18685 0
+0 gi|667853332|gb|KM233116.1| Zaire ebolavirus strain NM042.1, partial genome
+1098108 18926 0
+0 gi|667853322|gb|KM233115.1| Zaire ebolavirus strain G3857, partial genome
+1117034 18835 0
+0 gi|667853311|gb|KM233114.1| Zaire ebolavirus strain G3856.3, partial genome
+1135869 18939 0
+0 gi|667853301|gb|KM233113.1| Zaire ebolavirus strain G3856.1, partial genome
+1154808 18958 0
+0 gi|667853291|gb|KM233112.1| Zaire ebolavirus strain G3851, partial genome
+1173766 18923 0
+0 gi|667853280|gb|KM233111.1| Zaire ebolavirus strain G3850, partial genome
+1192689 18749 0
+0 gi|667853270|gb|KM233110.1| Zaire ebolavirus strain G3848, partial genome
+1211438 18956 0
+0 gi|667853259|gb|KM233109.1| Zaire ebolavirus strain G3846, partial genome
+1230394 18958 0
+0 gi|667853249|gb|KM233108.1| Zaire ebolavirus strain G3845, partial genome
+1249352 18915 0
+0 gi|667853239|gb|KM233107.1| Zaire ebolavirus strain G3841, partial genome
+1268267 18876 0
+0 gi|667853228|gb|KM233106.1| Zaire ebolavirus strain G3840, partial genome
+1287143 18945 0
+0 gi|667853218|gb|KM233105.1| Zaire ebolavirus strain G3838, partial genome
+1306088 18914 0
+0 gi|667853207|gb|KM233104.1| Zaire ebolavirus strain G3834, partial genome
+1325002 18921 0
+0 gi|667853197|gb|KM233103.1| Zaire ebolavirus strain G3831, partial genome
+1343923 18950 0
+0 gi|667853186|gb|KM233102.1| Zaire ebolavirus strain G3829, partial genome
+1362873 18945 0
+0 gi|667853176|gb|KM233101.1| Zaire ebolavirus strain G3827, partial genome
+1381818 18876 0
+0 gi|667853166|gb|KM233100.1| Zaire ebolavirus strain G3826, partial genome
+1400694 18932 0
+0 gi|667853155|gb|KM233099.1| Zaire ebolavirus strain G3825.2, partial genome
+1419626 18953 0
+0 gi|667853145|gb|KM233098.1| Zaire ebolavirus strain G3825.1, partial genome
+1438579 18950 0
+0 gi|667853134|gb|KM233097.1| Zaire ebolavirus strain G3823, partial genome
+1457529 18953 0
+0 gi|667853124|gb|KM233096.1| Zaire ebolavirus strain G3822, partial genome
+1476482 18953 0
+0 gi|667853113|gb|KM233095.1| Zaire ebolavirus strain G3821, partial genome
+1495435 18862 0
+0 gi|667853103|gb|KM233094.1| Zaire ebolavirus strain G3820, partial genome
+1514297 18925 0
+0 gi|667853093|gb|KM233093.1| Zaire ebolavirus strain G3819, partial genome
+1533222 18880 0
+0 gi|667853082|gb|KM233092.1| Zaire ebolavirus strain G3818, partial genome
+1552102 18948 0
+0 gi|667853072|gb|KM233091.1| Zaire ebolavirus strain G3817, partial genome
+1571050 18886 0
+0 gi|667853062|gb|KM233090.1| Zaire ebolavirus strain G3816, partial genome
+1589936 18799 0
+0 gi|667853051|gb|KM233089.1| Zaire ebolavirus strain G3814, partial genome
+1608735 18914 0
+0 gi|667853041|gb|KM233088.1| Zaire ebolavirus strain G3810.2, partial genome
+1627649 18921 0
+0 gi|667853030|gb|KM233087.1| Zaire ebolavirus strain G3810.1, partial genome
+1646570 18859 0
+0 gi|667853020|gb|KM233086.1| Zaire ebolavirus strain G3809, partial genome
+1665429 18830 0
+0 gi|667853009|gb|KM233085.1| Zaire ebolavirus strain G3808, partial genome
+1684259 18882 0
+0 gi|667852999|gb|KM233084.1| Zaire ebolavirus strain G3807, partial genome
+1703141 18921 0
+0 gi|667852988|gb|KM233083.1| Zaire ebolavirus strain G3805.2, partial genome
+1722062 18773 0
+0 gi|667852978|gb|KM233082.1| Zaire ebolavirus strain G3805.1, partial genome
+1740835 18812 0
+0 gi|667852967|gb|KM233081.1| Zaire ebolavirus strain G3800, partial genome
+1759647 18925 0
+0 gi|667852957|gb|KM233080.1| Zaire ebolavirus strain G3799, partial genome
+1778572 18945 0
+0 gi|667852945|gb|KM233079.1| Zaire ebolavirus strain G3798, partial genome
+1797517 18870 0
+0 gi|667852934|gb|KM233078.1| Zaire ebolavirus strain G3796, partial genome
+1816387 18912 0
+0 gi|667852924|gb|KM233077.1| Zaire ebolavirus strain G3795, partial genome
+1835299 18897 0
+0 gi|667852914|gb|KM233076.1| Zaire ebolavirus strain G3789.1, partial genome
+1854196 18811 0
+0 gi|667852903|gb|KM233075.1| Zaire ebolavirus strain G3788, partial genome
+1873007 18931 0
+0 gi|667852893|gb|KM233074.1| Zaire ebolavirus strain G3787, partial genome
+1891938 18890 0
+0 gi|667852882|gb|KM233073.1| Zaire ebolavirus strain G3786, partial genome
+1910828 18912 0
+0 gi|667852872|gb|KM233072.1| Zaire ebolavirus strain G3782, partial genome
+1929740 18949 0
+0 gi|667852861|gb|KM233071.1| Zaire ebolavirus strain G3771, partial genome
+1948689 18901 0
+0 gi|667852851|gb|KM233070.1| Zaire ebolavirus strain G3770.2, partial genome
+1967590 18959 0
+0 gi|667852840|gb|KM233069.1| Zaire ebolavirus strain G3770.1, partial genome
+1986549 18958 0
+0 gi|667852830|gb|KM233068.1| Zaire ebolavirus strain G3769.4, partial genome
+2005507 18925 0
+0 gi|667852819|gb|KM233067.1| Zaire ebolavirus strain G3769.3, partial genome
+2024432 18910 0
+0 gi|667852809|gb|KM233066.1| Zaire ebolavirus strain G3769.2, partial genome
+2043342 18876 0
+0 gi|667852798|gb|KM233065.1| Zaire ebolavirus strain G3769.1, partial genome
+2062218 18925 0
+0 gi|667852788|gb|KM233064.1| Zaire ebolavirus strain G3765.2, partial genome
+2081143 18803 0
+0 gi|667852778|gb|KM233063.1| Zaire ebolavirus strain G3764, partial genome
+2099946 18955 0
+0 gi|667852767|gb|KM233062.1| Zaire ebolavirus strain G3758, partial genome
+2118901 18937 0
+0 gi|667852757|gb|KM233061.1| Zaire ebolavirus strain G3752, partial genome
+2137838 18890 0
+0 gi|667852747|gb|KM233060.1| Zaire ebolavirus strain G3750.3, partial genome
+2156728 18711 0
+0 gi|667852736|gb|KM233059.1| Zaire ebolavirus strain G3750.2, partial genome
+2175439 18791 0
+0 gi|667852726|gb|KM233058.1| Zaire ebolavirus strain G3750.1, partial genome
+2194230 18850 0
+0 gi|667852716|gb|KM233057.1| Zaire ebolavirus strain G3735.2, partial genome
+2213080 18954 0
+0 gi|667852706|gb|KM233056.1| Zaire ebolavirus strain G3735.1, partial genome
+2232034 18957 0
+0 gi|667852696|gb|KM233055.1| Zaire ebolavirus strain G3734.1, partial genome
+2250991 18878 0
+0 gi|667852686|gb|KM233054.1| Zaire ebolavirus strain G3729, partial genome
+2269869 18948 0
+0 gi|667852676|gb|KM233053.1| Zaire ebolavirus strain G3724, partial genome
+2288817 18957 0
+0 gi|667852666|gb|KM233052.1| Zaire ebolavirus strain G3713.4, partial genome
+2307774 18941 0
+0 gi|667852656|gb|KM233051.1| Zaire ebolavirus strain G3713.3, partial genome
+2326715 18951 0
+0 gi|667852646|gb|KM233050.1| Zaire ebolavirus strain G3713.2, partial genome
+2345666 18956 0
+0 gi|667852635|gb|KM233049.1| Zaire ebolavirus strain G3707, partial genome
+2364622 18946 0
+0 gi|667852625|gb|KM233048.1| Zaire ebolavirus strain EM124.4, partial genome
+2383568 18829 0
+0 gi|667852614|gb|KM233047.1| Zaire ebolavirus strain EM124.3, partial genome
+2402397 18921 0
+0 gi|667852604|gb|KM233046.1| Zaire ebolavirus strain EM124.2, partial genome
+2421318 18867 0
+0 gi|667852592|gb|KM233045.1| Zaire ebolavirus strain EM124.1, partial genome
+2440185 18919 0
+0 gi|667852582|gb|KM233044.1| Zaire ebolavirus strain EM121, partial genome
+2459104 18914 0
+0 gi|667852572|gb|KM233043.1| Zaire ebolavirus strain EM120, partial genome
+2478018 18915 0
+0 gi|667852562|gb|KM233042.1| Zaire ebolavirus strain EM119, partial genome
+2496933 18912 0
+0 gi|667852552|gb|KM233041.1| Zaire ebolavirus strain EM115, partial genome
+2515845 18886 0
+0 gi|667852542|gb|KM233040.1| Zaire ebolavirus strain EM113, partial genome
+2534731 18922 0
+0 gi|667852531|gb|KM233039.1| Zaire ebolavirus strain EM112, partial genome
+2553653 18953 0
+0 gi|667852521|gb|KM233038.1| Zaire ebolavirus strain EM111, partial genome
+2572606 18914 0
+0 gi|667852510|gb|KM233037.1| Zaire ebolavirus strain EM110, partial genome
+2591520 18915 0
+0 gi|667852489|gb|KM233035.1| Zaire ebolavirus strain EM104, partial genome
+2610435 18912 0
+0 gi|667852500|gb|KM233036.1| Zaire ebolavirus strain EM106, partial genome
+2629347 18873 0
