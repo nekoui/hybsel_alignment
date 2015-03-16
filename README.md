@@ -1,7 +1,11 @@
 # hybsel_alignment
 A tool to assess the efficacy of probes in a hybrid select capture using BWA.
 
-#Pipeline outline
+##Requirements
+The process uses [BWA](http://bio-bwa.sourceforge.net/) for aligning and [SAMtools](http://samtools.sourceforge.net/) for alignment analysis. Final analysis will be done in Python (to be written).
+
+##Pipeline outline
+This pipeline is executed by ```align.sh```.
 ```
 bwa index [reference.fasta]
 bwa mem [reference.fasta] [probes.fastq] > [alignment.sam]
