@@ -13,7 +13,7 @@ python txt_to_fastq.py inputfile outptfilename
 This pipeline is executed by ```align.sh```.
 ```
 bwa index [reference.fasta]
-bwa mem [reference.fasta] [probes.fastq] > [alignment.sam]
+bwa mem -a [reference.fasta] [probes.fastq] > [alignment.sam]
 python unflagSecondaries.py [alignment.sam]
 samtools view -b -o [alignment.bam] [alignment.sam]
 samtools sort -O bam -T sort [alignment.bam] > [alignment.sorted.bam]
