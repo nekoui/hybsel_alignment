@@ -6,7 +6,7 @@ The process uses [BWA](http://bio-bwa.sourceforge.net/) for aligning and [SAMtoo
 
 ##Pipeline outline
 First, the list of probes is converted to FASTQ with artificially perfect read scores:
-```
+ ```
 python txt_to_fastq.py inputfile outptfilename
 ```
 
